@@ -13,7 +13,7 @@ for i in range(1,10):
     b1 = int(input())
     print(d(rnd, b1))
     if rnd==b:
-        break
+        breakk
 all(rnd, b)
 
 
